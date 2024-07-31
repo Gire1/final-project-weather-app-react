@@ -1,3 +1,15 @@
+.Weather{
+   border: 1px solid #adade1;
+     font-family: sans-serif;
+     color:rgb(135, 135, 135);
+     box-shadow: 1px 1px  4px  #0b060e;
+     margin: 10px auto ; 
+     padding: 16px;
+     background-color: #0b060e;
+     border-radius:4px ;
+
+}
+
 .Search form {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -13,16 +25,16 @@ input {
 }
 
 .search-input {
-  background-color: rgba(244, 234, 234, 0.7);
+  background-color: rgba(241, 244, 251, 0.7);
 }
 
 .search-input:focus-visible {
-  outline: 2px solid #1f1329;
-  background-color: rgb(20, 1, 1);
+  outline: 2px solid #422957;
+  background-color: rgb(112, 131, 150);
 }
 
 .search-btn {
-  background-color: #c7bbd0;
+  background-color: #8b38cb;
   transition: all 150ms ease-out;
 }
 
@@ -60,7 +72,7 @@ input {
 
 .humidity,
 .wind {
-  color: #aa7d84;
+  color: #ce203a;
   font-weight: bold;
 }
 
@@ -86,12 +98,12 @@ input {
 
 .celsius,
 .fahrenheit {
-  color: #212529;
+  color: #d4254b;
   text-decoration: none;
 }
 
 .WeatherForecast {
-  border-bottom: 1px solid #fff9;
+  border-bottom: 1px solid rgba(41, 15, 15, 0.6);
   padding-bottom: 30px;
 }
 
@@ -100,13 +112,13 @@ input {
 }
 
 footer {
-  color: #909090;
+  color: #8d7d7d;
   font-size: 13px;
   padding-top: 23px;
 }
 
 footer a {
-  color: #909090;
+  color: #742222;
   font-weight: 600;
   text-decoration: none;
   transition: all 150ms ease-out;
