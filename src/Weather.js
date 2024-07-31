@@ -66,7 +66,7 @@ export default function Weather(props) {
         <footer className="Footer">
           Coded by{" "}
           <a
-            href="https://github.com/wwwavvves"
+            href="https://github.com/Gire1"
             target="_blank"
             rel="noreferrer"
           >
@@ -74,7 +74,7 @@ export default function Weather(props) {
           </a>{" "}
           and open-sourced at{" "}
           <a
-            href="https://github.com/wwwavvves/weather-app-react-shecodes-week5"
+            href="https://github.com/Gire1/final-project-weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
