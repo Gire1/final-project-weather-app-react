@@ -29,7 +29,7 @@ input {
 }
 
 .search-input:focus-visible {
-  outline: 2px solid #422957;
+  outline: 2px solid #9b80b2;
   background-color: rgb(112, 131, 150);
 }
 
